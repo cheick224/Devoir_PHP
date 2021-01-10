@@ -1,0 +1,17 @@
+
+{
+    "name": "tp/student",
+    "type": "tp",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Toufik FETTOUS"
+      }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "App\\": "src/"
+      }
+    }
+  }
